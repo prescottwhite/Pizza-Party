@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pizza Party</string>
+    <string name="number_people">Number of people?</string>
+    <string name="how_hungry">How hungry?</string>
+    <string name="hunger_light">Light</string>
+    <string name="hunger_medium">Medium</string>
+    <string name="hunger_starving">Starving</string>
+    <string name="total_pizzas">Total pizzas: ?</string>
+    <string name="calculate_button">Calculate</string>
+</resources>
